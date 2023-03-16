@@ -1,6 +1,6 @@
 /*
  * File: 5-printf.c
- * Auth: peter 
+ * Auth: Peter
  */
 
 #include <stdio.h>
